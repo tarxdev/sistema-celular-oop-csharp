@@ -65,5 +65,5 @@ O terminal exibirá a saída dos testes, demonstrando os métodos comuns sendo e
 
 ## 👨‍💻 Autor
 
-Feito por **[Tarciso Ferreira]**.
+Feito por **Tarciso Ferreira**.
 
